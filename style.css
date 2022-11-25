@@ -5,3 +5,14 @@ body{
 form label{
   displey: block;
   font-size: 20px;
+}
+  table{
+    backgraund-color: darkturquoise;
+}
+
+table tr td {
+  boder: 2px solid;
+  boder-color: orange;
+  font-size: 24px;
+}
+  
